@@ -5,7 +5,8 @@
 	padding: 0;
 	box-sizing: border-box;
 	border: none;
-    font-family: Forte;
+	font-family: 'Comforter', cursive;
+        font-weight: bolder;
 }
 
 html{
