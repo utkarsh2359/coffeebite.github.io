@@ -1,0 +1,65 @@
+#Home{
+    height: auto;
+}
+.banner{
+    flex-direction: column;
+    align-items: center;
+}
+.leftside-banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0px 0px 20px 0px;
+    height: 600px;
+}
+.banner{
+    padding-top: 60px;
+}
+.navbar {
+    padding: 15px 20px;
+}
+.toggle-button {
+    top: 1.2rem;
+}
+.banner-img {
+    position: absolute;
+    top: 280px;
+    width: 340px;
+    height: 300px;
+    background-image: url(../Images/11.png);
+    animation: coffee-cup 12s infinite;
+}
+@keyframes coffee-cup{
+    50%{
+        background-image: url(../Images/12.png);
+    }
+}
+.banner-btn {
+    width: 340px;
+}
+.story{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ourstory_section {
+    max-width: 100vw;
+}
+.coffee_animation {
+    text-align: center;
+}
+.banner-btn {
+    width: 400px;
+}
+.banner-title {
+    text-align: center;
+}
+.menuline {
+    font-size: 30px;
+}
+.location-address img {
+    width: 450px;
+}
+.locationline {
+    font-size: 30px;
+}

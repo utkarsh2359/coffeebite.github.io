@@ -1,0 +1,72 @@
+.nav-logo-1{
+    display: none;
+}
+.nav-logo-2{
+    display: block;
+}
+.menus-btn {
+    width: 200px;
+    flex-direction: column;
+}
+.fullmenu-btn {
+    margin-bottom: 10px;
+}
+.menuline {
+    font-size: 20px;
+    padding: 0px 5px;
+}
+.location-address img {
+    width: 400px;
+}
+.locationline {
+    font-size: 20px;
+}
+.banner-btn {
+    width: 350px;
+}
+.card-price-bag {
+    padding: 0px 20px 10px 20px;
+    width: 100%;
+}
+.card-price-bag {
+    padding: 0px 20px 10px 20px;
+    width: 100%;
+}
+.cards-1 {
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cards-2 {
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.menutitle {
+    font-size: 60px;
+}
+.locationtitle {
+    font-size: 60px;
+}
+#loginSignup {
+    padding: 5px 20px;
+    right: 18px;
+}
+.toggle-button {
+    top: 1.1rem;
+}
+.contactNo-box {
+    max-width: 335px;
+    padding: 18px;
+    font-size: 28px;
+}
+.star{
+    width: 45px;
+}
+.Testimonials-Box {
+    padding: 30px 30px;
+}

@@ -1,0 +1,112 @@
+.button_icon_1 {
+    padding: 0px 10px 0px 0px;
+    width: 45px;
+}  
+.button_text-2 {
+    padding: 5px 25px 5px 10px;
+}
+.button_icon_2 {
+    padding: 0px 10px 0px 0px;
+    width: 45px;
+}
+.rightside {
+  width: 180px;
+}
+.text {
+  font-size: 20px;
+}
+.number {
+  font-size: 40px;
+}
+.coffee_ani {
+  width: 300px;
+}
+.Specialtitle {
+  font-size: 50px;
+}
+.card-img {
+  width: 280px;
+}
+.card-title {
+  font-size: 40px;
+}
+.location-point {
+  height: 180px;
+}
+.footer-box {
+  padding: 55px 15px;
+}
+.orderNow-btn {
+  font-size: 18px;
+}
+.banner-title {
+  font-size: 50px;
+}
+.storytitle {
+  font-size: 50px;
+}
+.storyline {
+  font-size: 15px;
+}
+.coffee_ani {
+  width: 300px;
+}
+.banner-btn {
+  width: 280px;
+}
+#loginSignup {
+  padding: 5px 10px;
+  right: 17px;
+  font-size: 18px;
+}
+.Testimonials-Box {
+  padding: 30px 15px;
+}
+.star {
+  width: 40px;
+}
+.location-address img {
+  width: 280px;
+}
+.contactNo-box {
+  font-size: 21px;
+  max-width: 250px;
+  padding: 10px;
+}
+.navbar {
+  padding: 15px 10px;
+}
+.banner-img {
+    position: absolute;
+    top: 280px;
+    width: 300px;
+    height: 260px;
+    background-image: url(../Images/13.png);
+    animation: coffee-cup 12s infinite;
+}
+@keyframes coffee-cup{
+    50%{
+        background-image: url(../Images/14.png);
+    }
+}
+#Menu {
+    padding: 0 10px;
+}
+#Locations {
+    padding: 30px 10px;
+}
+.menuline {
+    font-size: 18px;
+}
+.menutitle {
+    font-size: 55px;
+}
+.locationtitle {
+    font-size: 55px;
+}
+.locationline {
+    font-size: 18px;
+}
+.leftside-banner {
+    height: 540px;
+}
